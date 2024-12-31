@@ -138,3 +138,10 @@ Contributions are encouraged! Follow these steps:
 2. Create a feature branch.
 3. Commit changes.
 4. Open a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Happy Hacking! 🛡️✨
